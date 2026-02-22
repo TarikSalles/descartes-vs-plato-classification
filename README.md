@@ -1,6 +1,6 @@
 # Classificação de Autoria: Platão vs Descartes com Word Embeddings e MLP
 
-![Platão e Descartes](images/descartes-platao.jpg)
+![Platão e Descartes](images/descartes_platao.jpg)
 
 Este projeto apresenta a implementação completa de um pipeline de
 Classificação de Autoria Textual, distinguindo frases de
@@ -22,7 +22,7 @@ O objetivo é classificar cada frase como:
 -   0 → Platão\
 -   1 → Descartes
 
-![Distribuição Textual](images/distribuicao-textos.png)
+![Distribuição Textual](images/distribuicao_textos.png)
 ------------------------------------------------------------------------
 
 ## Instalação
