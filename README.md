@@ -136,6 +136,7 @@ Foram geradas visualizações nas predições dos dados de teste:
 
 
 As duas separações, especialmente a unidimensional, mostram que o modelo aprendeu a distinguir de forma satisfatória os dois padrões textuais nos textos dos filósofos
+
 ------------------------------------------------------------------------
 
 ## Tecnologias Utilizadas
