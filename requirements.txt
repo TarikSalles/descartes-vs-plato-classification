@@ -1,0 +1,8 @@
+numpy
+matplotlib
+nltk
+gensim
+scikit-learn
+tensorflow
+requests
+beautifulsoup4
