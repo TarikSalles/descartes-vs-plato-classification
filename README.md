@@ -141,11 +141,11 @@ As duas separações, especialmente a unidimensional, mostram que o modelo apren
 
 ## Tecnologias Utilizadas
 
--   Python\
--   NumPy\
--   NLTK\
--   Gensim\
--   Scikit-learn\
--   TensorFlow / Keras\
--   Matplotlib\
+-   Python
+-   NumPy
+-   NLTK
+-   Gensim
+-   Scikit-learn
+-   TensorFlow / Keras
+-   Matplotlib
 -   Jupyter Notebook
